@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "M5-W2-Gallery"
+    }
+  },
+  "defaultProject": "M5-W2-Gallery",
+  "cli": {
+    "analytics": false
+  }
 }
